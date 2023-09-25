@@ -1,2 +1,4 @@
-# ThreadsSemaforos-SO1
-Exercicios de Threads usando a classe Semaphore do Java. Matéria de Sistemas Operacionais 1
+# Ex 1 - Cruzamento de carros
+ Para tal, usar uma variável sentido, que será alterado pela Thread que controla cada carro com a
+movimentação do carro. Quando a Thread tiver a possibilidade de ser executada, ela deve imprimir em
+console o sentido que o carro está passando. Só pode passar um carro por vez no cruzamento.
